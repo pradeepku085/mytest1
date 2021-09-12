@@ -1,3 +1,1 @@
-Ji	
-s
-Good Morning
+echo "Hello"
